@@ -43,7 +43,6 @@
 
 <a href="https://github.com/jabriilcaduun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabriilcaduun&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabriilcaduun&theme=buefy&layout=compact" />
 </a>
 
 <br/>
